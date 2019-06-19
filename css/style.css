@@ -17,10 +17,10 @@ body {
 	padding: 0 45px 20px;
 }
 
-#featured_image {
-  height: 10px;
-  width: 15px;
-}
+/*#featured_image {*/
+/*  height: 10px;*/
+/*  width: 15px;*/
+/*}*/
 
 .press_images {
   display: inline-block;
